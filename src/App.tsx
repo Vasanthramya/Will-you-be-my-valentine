@@ -7,16 +7,16 @@ const phrases = [
   "Really sure?",
   "Pookie pleasee",
   "I'll buy you food <3",
-  "and flowers...",
-  "and cake...",
-  "Okay... You sure?",
-  "Sure sure?",
-  "Sure sure sure?",
-  "Sure sure sure sure?",
-  "Sure sure sure sure sure?",
-  "Sure sure sure sure sure sure?",
-  "Sure sure sure sure sure sure sure?",
-  "Change of heart yet?"
+  "And flowers...",
+  "And chocolate...",
+  "Biriyani vangi tharen?",
+  "En chellan la?",
+  "Pattukutty la?",
+  "Ammu la?",
+  "Apro naan azhuven?",
+  "Avalo en heart ah odachita",
+  "Avalo than nammbala mudichi vittinga ponga",
+  "Kadaisiya kekkuren?"
 ]
 
 function App() {
